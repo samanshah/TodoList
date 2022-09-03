@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="date_created">Date created</string>
+    <string name="deleted_successfully">Deleted Successfully</string>
+    <string name="undo">Undo</string>
+    <string name="new_task">New Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="delete_confirmation">Delete Confirmation</string>
+    <string name="do_you_want_to_delete_all_tasks">Do you want to delete all tasks?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_description">Task Description</string>
+    <string name="important">Important</string>
+    <string name="search">Search</string>
+    <string name="sort">Sort</string>
+    <string name="by_name">By Name</string>
+    <string name="by_date">By Date</string>
+    <string name="hide_completed">Hide Completed</string>
+    <string name="delete_all_completed">Delete All Completed</string>
+</resources>
